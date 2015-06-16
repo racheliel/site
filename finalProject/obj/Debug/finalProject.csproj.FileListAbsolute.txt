@@ -1,0 +1,6 @@
+C:\GitHub\My-little-business\SITE ASP.NET\finalProject\bin\finalProject.dll.config
+C:\GitHub\My-little-business\SITE ASP.NET\finalProject\bin\finalProject.dll
+C:\GitHub\My-little-business\SITE ASP.NET\finalProject\bin\finalProject.pdb
+C:\GitHub\My-little-business\SITE ASP.NET\finalProject\obj\Debug\finalProject.csprojResolveAssemblyReference.cache
+C:\GitHub\My-little-business\SITE ASP.NET\finalProject\obj\Debug\finalProject.dll
+C:\GitHub\My-little-business\SITE ASP.NET\finalProject\obj\Debug\finalProject.pdb
